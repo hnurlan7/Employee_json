@@ -1,0 +1,16 @@
+{
+  "_employees": [
+    {
+      "Id": 0,
+      "Name": "Nurlan",
+      "Salary": 4000.0
+    },
+    {
+      "Id": 0,
+      "Name": "Ilkin",
+      "Salary": 3500.0
+    }
+  ],
+  "Id": 0,
+  "Name": null
+}
